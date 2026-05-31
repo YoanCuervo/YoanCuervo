@@ -16,9 +16,10 @@ Full stack web developer, based in Paris (France) currently training at Wild Cod
 
 # Currently_Learning
 <!-- Web & Frameworks -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
 <!-- AI & Data -->
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white)  ![LLM](https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-grey?style=flat) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-grey?style=flat)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat&logo=mlflow&logoColor=white)  ![LLM](https://img.shields.io/badge/LLM-412991?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-grey?style=flat) ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-grey?style=flat)
+
 
 # Goals
 Looking for an apprenticeship or first position as a **Full Stack Web Developer** — available from september 2026.
