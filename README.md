@@ -22,7 +22,7 @@ Full stack web developer, based in Paris (France) currently training at Wild Cod
 
 
 # Goals
-Looking for an apprenticeship or first position as a **Full Stack Web Developer** — available from september 2026.
+Looking for an apprenticeship or first position as a **Full Stack Web Developer** — available from now.
 
 <!-- 
 # Stats
